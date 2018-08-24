@@ -1,2 +1,2 @@
-# C-PrimerSolutions
+# CppPrimerSolutions
 C++ Primer Solutions
